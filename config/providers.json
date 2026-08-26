@@ -1,0 +1,45 @@
+[
+  {
+    "id": "sorux",
+    "name": "SoruxGPT",
+    "type": "new_api",
+    "base_url": "https://ai.soruxgpt.com",
+    "pricing_url": "https://ai.soruxgpt.com/pricing"
+  },
+  {
+    "id": "x5m5x",
+    "name": "x5m5x",
+    "type": "x5_pricing_page",
+    "base_url": "https://api.x5m5x.com",
+    "pricing_url": "https://api.x5m5x.com/pricing/"
+  },
+  {
+    "id": "api_hub",
+    "name": "API Hub Asia",
+    "type": "sub2api",
+    "base_url": "https://api-hub.asia",
+    "pricing_url": "https://api-hub.asia/model-plaza",
+    "token_env": "API_HUB_TOKEN"
+  },
+  {
+    "id": "siliconflow",
+    "name": "硅基流动",
+    "type": "siliconflow",
+    "base_url": "https://siliconflow.cn",
+    "pricing_url": "https://siliconflow.cn/pricing"
+  },
+  {
+    "id": "rtoc",
+    "name": "RTOC",
+    "type": "new_api",
+    "base_url": "https://api.rtoc.cc",
+    "pricing_url": "https://ai.rtoc.cc/pricing"
+  },
+  {
+    "id": "bianxie",
+    "name": "便携 AI",
+    "type": "new_api",
+    "base_url": "https://api.bianxie.ai",
+    "pricing_url": "https://api.bianxie.ai/pricing"
+  }
+]

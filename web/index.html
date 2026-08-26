@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="跨站 AI API 模型价格比较与历史价格监控" />
+    <title>Model Rate Atlas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <a class="brand" href="./">
+        <span class="brand-mark">M</span>
+        <span>MODEL RATE ATLAS</span>
+      </a>
+      <div class="update-state">
+        <span class="pulse"></span>
+        <span id="updated-at">正在载入价格数据</span>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div>
+          <p class="eyebrow">AI API PRICE OBSERVATORY</p>
+          <h1>找到模型的<br /><em>真实调用成本</em></h1>
+        </div>
+        <p class="hero-copy">聚合多个第三方 API 站点，保留每个渠道分组、计费条件和原始币种。数据由 GitHub Actions 每 6 小时自动更新。</p>
+      </section>
+
+      <section class="status-strip" id="provider-status" aria-label="数据源状态"></section>
+
+      <section class="workspace">
+        <aside class="control-panel">
+          <label for="model-search">选择模型</label>
+          <div class="search-wrap">
+            <input id="model-search" list="model-options" placeholder="输入 claude、gpt、gemini…" autocomplete="off" />
+            <span>/</span>
+          </div>
+          <datalist id="model-options"></datalist>
+
+          <div class="filter-block">
+            <span class="filter-label">计费类型</span>
+            <div class="segmented" id="billing-filter">
+              <button class="active" data-value="all">全部</button>
+              <button data-value="token">Token</button>
+              <button data-value="request">按次</button>
+            </div>
+          </div>
+
+          <div class="model-meta">
+            <span>当前模型</span>
+            <strong id="selected-model">—</strong>
+            <small id="result-summary">请选择一个模型</small>
+          </div>
+
+          <p class="notice">价格按来源币种展示。不同币种未使用即时汇率换算，以避免产生误导。</p>
+        </aside>
+
+        <div class="results-panel">
+          <div class="section-heading">
+            <div>
+              <span>LIVE COMPARISON</span>
+              <h2>渠道报价</h2>
+            </div>
+            <div class="legend"><i></i> 点击报价查看历史</div>
+          </div>
+          <div id="price-results" class="price-grid"></div>
+
+          <section class="history-panel">
+            <div class="section-heading compact">
+              <div>
+                <span>PRICE MEMORY</span>
+                <h2>历史波动</h2>
+              </div>
+              <strong id="history-title">选择上方任一报价</strong>
+            </div>
+            <div id="history-chart" class="chart-empty">尚未选择价格序列</div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>价格仅供比较，请以下单时网站实际价格为准。</span>
+      <a href="https://github.com/" id="source-link">SOURCE ON GITHUB ↗</a>
+    </footer>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
