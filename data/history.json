@@ -578,6 +578,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.0015
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
         }
       ]
     },
@@ -3038,6 +3046,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.1,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 375.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -4860,6 +4884,14 @@
           "input_per_million": 15.0,
           "output_per_million": 75.0,
           "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 1.5,
           "cache_write_per_million": null,
           "request_price": null
         }
@@ -11730,6 +11762,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.0085
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.03
         }
       ]
     },
@@ -12066,6 +12106,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.009
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.036
         }
       ]
     },
@@ -14262,6 +14310,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -15666,6 +15722,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -17067,6 +17131,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 0.48999999999999994,
           "output_per_million": 1.9599999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -18670,6 +18742,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 4.8999999999999995,
+          "output_per_million": 19.599999999999998,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -20170,6 +20258,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 7.0,
+          "output_per_million": 28.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -21665,6 +21769,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 4.8999999999999995,
+          "output_per_million": 19.599999999999998,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 4.8999999999999995,
           "output_per_million": 19.599999999999998,
           "cache_read_per_million": null,
@@ -23242,6 +23362,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -24614,6 +24750,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 1.2,
+          "output_per_million": 4.8,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -25981,6 +26133,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 0.84,
           "output_per_million": 3.36,
           "cache_read_per_million": null,
@@ -27478,6 +27646,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -28930,6 +29114,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 1.2,
+          "output_per_million": 4.8,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -30377,6 +30577,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 0.84,
           "output_per_million": 3.36,
           "cache_read_per_million": null,
@@ -31954,6 +32170,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.9099999999999999,
+          "output_per_million": 3.6399999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -33446,6 +33670,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 1.3,
+          "output_per_million": 5.2,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -34935,6 +35167,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.9099999999999999,
+          "output_per_million": 3.6399999999999997,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -36630,6 +36870,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -38162,6 +38410,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -39691,6 +39947,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -41262,6 +41526,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -42727,6 +42999,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 0.3,
           "output_per_million": 2.4999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -44335,6 +44615,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 0.21,
           "output_per_million": 1.74999999999993,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -46222,6 +46510,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.06999999999999999,
+          "output_per_million": 0.27999999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -47663,6 +47959,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.1,
+          "output_per_million": 0.4,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -49247,6 +49551,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.06999999999999999,
+          "output_per_million": 0.27999999999999997,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -51498,6 +51810,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.875,
+          "output_per_million": 7.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -52969,6 +53297,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 1.25,
+          "output_per_million": 10.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
           "cache_read_per_million": null,
@@ -54585,6 +54929,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.875,
+          "output_per_million": 7.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
           "cache_read_per_million": null,
@@ -56834,6 +57194,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -58278,6 +58654,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 300.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -59717,6 +60109,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
           "cache_read_per_million": null,
@@ -64530,6 +64938,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -66070,6 +66486,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -67607,6 +68031,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 1.4,
           "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -70418,6 +70850,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 1.4,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -71881,6 +72329,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
           "cache_read_per_million": null,
@@ -73469,6 +73933,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 1.4,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
           "cache_read_per_million": null,
@@ -75278,6 +75758,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 2.8,
+          "output_per_million": 11.2,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -76759,6 +77247,14 @@
           "captured_at": "2026-09-27T12:10:08Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 4.0,
+          "output_per_million": 16.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -78246,6 +78742,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 2.8,
+          "output_per_million": 11.2,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -79701,6 +80205,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
           "cache_read_per_million": null,
@@ -81166,6 +81686,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 300.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -82621,6 +83157,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
           "cache_read_per_million": null,
@@ -84154,6 +84706,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -85617,6 +86185,22 @@
         },
         {
           "captured_at": "2026-09-27T12:10:08Z",
+          "input_per_million": 75.0,
+          "output_per_million": 300.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
           "input_per_million": 75.0,
           "output_per_million": 300.0,
           "cache_read_per_million": null,
@@ -87090,6 +87674,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -88166,6 +88766,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.009
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.036
         }
       ]
     },
@@ -88394,6 +89002,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.009
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.036
         }
       ]
     },
@@ -88594,6 +89210,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.015
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.06
         }
       ]
     },
@@ -93134,6 +93758,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 1.245,
+          "output_per_million": 4.98,
+          "cache_read_per_million": 0.6225,
+          "cache_write_per_million": 0.6225,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 622.5,
+          "output_per_million": 622.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -96802,6 +97442,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.015
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.06
         }
       ]
     },
@@ -102482,6 +103130,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.009
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.036
         }
       ]
     },
@@ -102626,6 +103282,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.015
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.06
         }
       ]
     },
@@ -102910,6 +103574,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.075
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.12
         }
       ]
     },
@@ -104206,6 +104878,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.003
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
         }
       ]
     },
@@ -104334,6 +105014,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.0045
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.018
         }
       ]
     },
@@ -104490,6 +105178,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.0085
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.03
         }
       ]
     },
@@ -117494,6 +118190,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.012
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
         }
       ]
     },
@@ -124466,6 +125170,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": 0.012
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
         }
       ]
     },
@@ -125007,6 +125719,14 @@
           "captured_at": "2026-09-17T17:05:25Z",
           "input_per_million": 0.1,
           "output_per_million": 0.4,
+          "cache_read_per_million": 0.002,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": 0.08,
+          "output_per_million": 0.32,
           "cache_read_per_million": 0.002,
           "cache_write_per_million": 0.0,
           "request_price": null
@@ -128808,7 +129528,1807 @@
           "request_price": null
         }
       ]
+    },
+    "x5m5x|auto-model|Auto|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "auto-model",
+      "source_model": "Auto-Model",
+      "group": "Auto",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.004
+        }
+      ]
+    },
+    "x5m5x|auto-model|Auto|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "auto-model",
+      "source_model": "Auto-Model",
+      "group": "Auto",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.008
+        }
+      ]
+    },
+    "x5m5x|auto-model|Auto|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "auto-model",
+      "source_model": "Auto-Model",
+      "group": "Auto",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.002
+        }
+      ]
+    },
+    "x5m5x|auto-model|Auto|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "auto-model",
+      "source_model": "Auto-Model",
+      "group": "Auto",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.001
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-1-flash|DeepSeek|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-1-flash",
+      "source_model": "deepseek-v4.1-flash",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.032
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-1-flash|DeepSeek|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-1-flash",
+      "source_model": "deepseek-v4.1-flash",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.064
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-1-flash|DeepSeek|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-1-flash",
+      "source_model": "deepseek-v4.1-flash",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.016
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-1-flash|DeepSeek|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-1-flash",
+      "source_model": "deepseek-v4.1-flash",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.008
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-flash|DeepSeek|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash-0731",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.02
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-flash|DeepSeek|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash-0731",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.04
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-flash|DeepSeek|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash-0731",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.01
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-flash|DeepSeek|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash-0731",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.005
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-pro-0813|DeepSeek|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-pro-0813",
+      "source_model": "deepseek-v4-pro-0813",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.024
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-pro-0813|DeepSeek|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-pro-0813",
+      "source_model": "deepseek-v4-pro-0813",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-pro-0813|DeepSeek|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-pro-0813",
+      "source_model": "deepseek-v4-pro-0813",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
+        }
+      ]
+    },
+    "x5m5x|deepseek-v4-pro-0813|DeepSeek|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "deepseek-v4-pro-0813",
+      "source_model": "deepseek-v4-pro-0813",
+      "group": "DeepSeek",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
+        }
+      ]
+    },
+    "x5m5x|glm-5-1|GLM|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-1",
+      "source_model": "glm-5.1",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.024
+        }
+      ]
+    },
+    "x5m5x|glm-5-1|GLM|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-1",
+      "source_model": "glm-5.1",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
+        }
+      ]
+    },
+    "x5m5x|glm-5-1|GLM|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-1",
+      "source_model": "glm-5.1",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
+        }
+      ]
+    },
+    "x5m5x|glm-5-1|GLM|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-1",
+      "source_model": "glm-5.1",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
+        }
+      ]
+    },
+    "x5m5x|glm-5-2|GLM|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-2",
+      "source_model": "glm-5.2",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.024
+        }
+      ]
+    },
+    "x5m5x|glm-5-2|GLM|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-2",
+      "source_model": "glm-5.2",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
+        }
+      ]
+    },
+    "x5m5x|glm-5-2|GLM|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-2",
+      "source_model": "glm-5.2",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
+        }
+      ]
+    },
+    "x5m5x|glm-5-2|GLM|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-2",
+      "source_model": "glm-5.2",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
+        }
+      ]
+    },
+    "x5m5x|glm-5-3|GLM|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3",
+      "source_model": "glm-5.3",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.04
+        }
+      ]
+    },
+    "x5m5x|glm-5-3|GLM|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3",
+      "source_model": "glm-5.3",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.08
+        }
+      ]
+    },
+    "x5m5x|glm-5-3|GLM|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3",
+      "source_model": "glm-5.3",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.02
+        }
+      ]
+    },
+    "x5m5x|glm-5-3|GLM|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3",
+      "source_model": "glm-5.3",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.01
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flash|GLM|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flash",
+      "source_model": "glm-5.3-flash",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.032
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flash|GLM|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flash",
+      "source_model": "glm-5.3-flash",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.064
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flash|GLM|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flash",
+      "source_model": "glm-5.3-flash",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.016
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flash|GLM|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flash",
+      "source_model": "glm-5.3-flash",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.008
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flashx|GLM|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flashx",
+      "source_model": "glm-5.3-flashx",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.04
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flashx|GLM|request|256K–512K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flashx",
+      "source_model": "glm-5.3-flashx",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "256K–512K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.06
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flashx|GLM|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flashx",
+      "source_model": "glm-5.3-flashx",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.08
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flashx|GLM|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flashx",
+      "source_model": "glm-5.3-flashx",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.02
+        }
+      ]
+    },
+    "x5m5x|glm-5-3-flashx|GLM|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "glm-5-3-flashx",
+      "source_model": "glm-5.3-flashx",
+      "group": "GLM",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.01
+        }
+      ]
+    },
+    "x5m5x|gpt-5-6|OpenAI|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "OpenAI",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.04
+        }
+      ]
+    },
+    "x5m5x|gpt-5-6|OpenAI|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "OpenAI",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.08
+        }
+      ]
+    },
+    "x5m5x|gpt-5-6|OpenAI|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "OpenAI",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.02
+        }
+      ]
+    },
+    "x5m5x|gpt-5-6|OpenAI|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "OpenAI",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.01
+        }
+      ]
+    },
+    "x5m5x|hy4|Hunyuan|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "hy4",
+      "source_model": "hy4",
+      "group": "Hunyuan",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.024
+        }
+      ]
+    },
+    "x5m5x|hy4|Hunyuan|request|256K–512K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "hy4",
+      "source_model": "hy4",
+      "group": "Hunyuan",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "256K–512K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.036
+        }
+      ]
+    },
+    "x5m5x|hy4|Hunyuan|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "hy4",
+      "source_model": "hy4",
+      "group": "Hunyuan",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
+        }
+      ]
+    },
+    "x5m5x|hy4|Hunyuan|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "hy4",
+      "source_model": "hy4",
+      "group": "Hunyuan",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
+        }
+      ]
+    },
+    "x5m5x|hy4|Hunyuan|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "hy4",
+      "source_model": "hy4",
+      "group": "Hunyuan",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
+        }
+      ]
+    },
+    "x5m5x|kimi-k2-6|Kimi|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k2-6",
+      "source_model": "kimi-k2.6",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.024
+        }
+      ]
+    },
+    "x5m5x|kimi-k2-6|Kimi|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k2-6",
+      "source_model": "kimi-k2.6",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
+        }
+      ]
+    },
+    "x5m5x|kimi-k2-6|Kimi|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k2-6",
+      "source_model": "kimi-k2.6",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
+        }
+      ]
+    },
+    "x5m5x|kimi-k2-6|Kimi|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k2-6",
+      "source_model": "kimi-k2.6",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
+        }
+      ]
+    },
+    "x5m5x|kimi-k2-7-code|Kimi|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k2-7-code",
+      "source_model": "kimi-k2.7-code",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.04
+        }
+      ]
+    },
+    "x5m5x|kimi-k2-7-code|Kimi|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k2-7-code",
+      "source_model": "kimi-k2.7-code",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.08
+        }
+      ]
+    },
+    "x5m5x|kimi-k2-7-code|Kimi|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k2-7-code",
+      "source_model": "kimi-k2.7-code",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.02
+        }
+      ]
+    },
+    "x5m5x|kimi-k2-7-code|Kimi|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k2-7-code",
+      "source_model": "kimi-k2.7-code",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.01
+        }
+      ]
+    },
+    "x5m5x|kimi-k3|Kimi|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k3",
+      "source_model": "kimi-k3",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.08
+        }
+      ]
+    },
+    "x5m5x|kimi-k3|Kimi|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k3",
+      "source_model": "kimi-k3",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.16
+        }
+      ]
+    },
+    "x5m5x|kimi-k3|Kimi|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k3",
+      "source_model": "kimi-k3",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.04
+        }
+      ]
+    },
+    "x5m5x|kimi-k3|Kimi|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "kimi-k3",
+      "source_model": "kimi-k3",
+      "group": "Kimi",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.02
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5|小米 MiMo|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5",
+      "source_model": "mimo-v2.5",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5|小米 MiMo|request|256K–512K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5",
+      "source_model": "mimo-v2.5",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "256K–512K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5|小米 MiMo|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5",
+      "source_model": "mimo-v2.5",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5|小米 MiMo|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5",
+      "source_model": "mimo-v2.5",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5|小米 MiMo|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5",
+      "source_model": "mimo-v2.5",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5-pro|小米 MiMo|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5-pro",
+      "source_model": "mimo-v2.5-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.024
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5-pro|小米 MiMo|request|256K–512K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5-pro",
+      "source_model": "mimo-v2.5-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "256K–512K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.036
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5-pro|小米 MiMo|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5-pro",
+      "source_model": "mimo-v2.5-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5-pro|小米 MiMo|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5-pro",
+      "source_model": "mimo-v2.5-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-5-pro|小米 MiMo|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-5-pro",
+      "source_model": "mimo-v2.5-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-flash|小米 MiMo|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-flash",
+      "source_model": "mimo-v2.6-flash",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.024
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-flash|小米 MiMo|request|256K–512K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-flash",
+      "source_model": "mimo-v2.6-flash",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "256K–512K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.036
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-flash|小米 MiMo|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-flash",
+      "source_model": "mimo-v2.6-flash",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-flash|小米 MiMo|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-flash",
+      "source_model": "mimo-v2.6-flash",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-flash|小米 MiMo|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-flash",
+      "source_model": "mimo-v2.6-flash",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-pro|小米 MiMo|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-pro",
+      "source_model": "mimo-v2.6-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.032
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-pro|小米 MiMo|request|256K–512K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-pro",
+      "source_model": "mimo-v2.6-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "256K–512K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.048
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-pro|小米 MiMo|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-pro",
+      "source_model": "mimo-v2.6-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.064
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-pro|小米 MiMo|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-pro",
+      "source_model": "mimo-v2.6-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.016
+        }
+      ]
+    },
+    "x5m5x|mimo-v2-6-pro|小米 MiMo|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "mimo-v2-6-pro",
+      "source_model": "mimo-v2.6-pro",
+      "group": "小米 MiMo",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.008
+        }
+      ]
+    },
+    "x5m5x|minimax-m2-7|MiniMax|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m2-7",
+      "source_model": "MiniMax-M2.7",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.008
+        }
+      ]
+    },
+    "x5m5x|minimax-m2-7|MiniMax|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m2-7",
+      "source_model": "MiniMax-M2.7",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.016
+        }
+      ]
+    },
+    "x5m5x|minimax-m2-7|MiniMax|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m2-7",
+      "source_model": "MiniMax-M2.7",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.004
+        }
+      ]
+    },
+    "x5m5x|minimax-m2-7|MiniMax|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m2-7",
+      "source_model": "MiniMax-M2.7",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.002
+        }
+      ]
+    },
+    "x5m5x|minimax-m2-7-highspeed|MiniMax|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m2-7-highspeed",
+      "source_model": "MiniMax-M2.7-highspeed",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.012
+        }
+      ]
+    },
+    "x5m5x|minimax-m2-7-highspeed|MiniMax|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m2-7-highspeed",
+      "source_model": "MiniMax-M2.7-highspeed",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.024
+        }
+      ]
+    },
+    "x5m5x|minimax-m2-7-highspeed|MiniMax|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m2-7-highspeed",
+      "source_model": "MiniMax-M2.7-highspeed",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.006
+        }
+      ]
+    },
+    "x5m5x|minimax-m2-7-highspeed|MiniMax|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m2-7-highspeed",
+      "source_model": "MiniMax-M2.7-highspeed",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.003
+        }
+      ]
+    },
+    "x5m5x|minimax-m3|MiniMax|request|128K–256K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m3",
+      "source_model": "MiniMax-M3",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "128K–256K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.02
+        }
+      ]
+    },
+    "x5m5x|minimax-m3|MiniMax|request|512K–1024K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m3",
+      "source_model": "MiniMax-M3",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "512K–1024K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.04
+        }
+      ]
+    },
+    "x5m5x|minimax-m3|MiniMax|request|64K–128K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m3",
+      "source_model": "MiniMax-M3",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "64K–128K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.01
+        }
+      ]
+    },
+    "x5m5x|minimax-m3|MiniMax|request|≤ 64K": {
+      "provider_id": "x5m5x",
+      "provider_name": "x5m5x",
+      "canonical_model": "minimax-m3",
+      "source_model": "MiniMax-M3",
+      "group": "MiniMax",
+      "billing_mode": "request",
+      "currency": "CNY",
+      "condition": "≤ 64K",
+      "points": [
+        {
+          "captured_at": "2026-09-27T17:02:05Z",
+          "input_per_million": null,
+          "output_per_million": null,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": 0.005
+        }
+      ]
     }
   },
-  "updated_at": "2026-09-27T12:10:08Z"
+  "updated_at": "2026-09-27T17:02:05Z"
 }
