@@ -3766,6 +3766,22 @@
           "cache_read_per_million": 0.1,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 375.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.1,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -6228,6 +6244,14 @@
           "input_per_million": 15.0,
           "output_per_million": 75.0,
           "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 1.5,
           "cache_write_per_million": null,
           "request_price": null
         }
@@ -16614,6 +16638,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.48999999999999994,
+          "output_per_million": 1.9599999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -18650,6 +18682,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.7,
+          "output_per_million": 2.8,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -20683,6 +20723,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.48999999999999994,
+          "output_per_million": 1.9599999999999997,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -22966,6 +23014,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.8999999999999995,
+          "output_per_million": 19.599999999999998,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -25143,6 +25199,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 7.0,
+          "output_per_million": 28.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -27326,6 +27390,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.8999999999999995,
+          "output_per_million": 19.599999999999998,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -29506,6 +29578,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -31486,6 +31566,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -33463,6 +33551,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 0.84,
           "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -35630,6 +35726,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -37754,6 +37866,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.2,
+          "output_per_million": 4.8,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -39873,6 +40001,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 0.84,
           "output_per_million": 3.36,
           "cache_read_per_million": null,
@@ -42106,6 +42250,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.9099999999999999,
+          "output_per_million": 3.6399999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -44254,6 +44406,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.3,
+          "output_per_million": 5.2,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -46399,6 +46559,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.9099999999999999,
+          "output_per_million": 3.6399999999999997,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -48718,6 +48886,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -50874,6 +51050,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -53027,6 +53211,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -55238,6 +55430,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.21,
+          "output_per_million": 1.74999999999993,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -57341,6 +57549,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 0.3,
+          "output_per_million": 2.4999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 0.3,
           "output_per_million": 2.4999999999999,
           "cache_read_per_million": null,
@@ -59597,6 +59821,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 0.21,
+          "output_per_million": 1.74999999999993,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 0.21,
           "output_per_million": 1.74999999999993,
           "cache_read_per_million": null,
@@ -62142,6 +62382,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.06999999999999999,
+          "output_per_million": 0.27999999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -64237,6 +64493,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.1,
+          "output_per_million": 0.4,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
           "cache_read_per_million": null,
@@ -66485,6 +66757,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.06999999999999999,
+          "output_per_million": 0.27999999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
           "cache_read_per_million": null,
@@ -69410,6 +69698,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.875,
+          "output_per_million": 7.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -71555,6 +71851,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.25,
+          "output_per_million": 10.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -73843,6 +74147,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.875,
+          "output_per_million": 7.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -76738,6 +77050,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -78830,6 +79150,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 300.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -80919,6 +81247,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -86410,6 +86746,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.4,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -88598,6 +88942,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -90783,6 +91135,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.4,
+          "output_per_million": 8.399999999999999,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -94258,6 +94618,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -96387,6 +96755,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 2.0,
           "output_per_million": 12.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -98647,6 +99023,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 1.4,
           "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -101134,6 +101518,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.8,
+          "output_per_million": 11.2,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -103293,6 +103693,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 4.0,
+          "output_per_million": 16.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 4.0,
           "output_per_million": 16.0,
           "cache_read_per_million": null,
@@ -105462,6 +105878,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.8,
+          "output_per_million": 11.2,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -107615,6 +108047,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -109774,6 +110214,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -111927,6 +112375,14 @@
           "captured_at": "2026-10-15T21:29:19Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -114106,6 +114562,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -116217,6 +116689,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 75.0,
+          "output_per_million": 300.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
           "cache_read_per_million": null,
@@ -118338,6 +118826,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -120042,6 +120546,22 @@
           "cache_read_per_million": 0.1,
           "cache_write_per_million": 0.0,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.8,
+          "output_per_million": 2.8,
+          "cache_read_per_million": 0.2,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.4,
+          "output_per_million": 1.4,
+          "cache_read_per_million": 0.1,
+          "cache_write_per_million": 0.0,
+          "request_price": null
         }
       ]
     },
@@ -120774,6 +121294,22 @@
           "cache_read_per_million": 0.1,
           "cache_write_per_million": 0.0,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.8,
+          "output_per_million": 2.8,
+          "cache_read_per_million": 0.2,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.4,
+          "output_per_million": 1.4,
+          "cache_read_per_million": 0.1,
+          "cache_write_per_million": 0.0,
+          "request_price": null
         }
       ]
     },
@@ -121473,6 +122009,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 0.4,
+          "output_per_million": 1.4,
+          "cache_read_per_million": 0.1,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.8,
+          "output_per_million": 2.8,
+          "cache_read_per_million": 0.2,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 0.4,
           "output_per_million": 1.4,
           "cache_read_per_million": 0.1,
@@ -126569,6 +127121,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 1.245,
+          "output_per_million": 4.98,
+          "cache_read_per_million": 0.6225,
+          "cache_write_per_million": 0.6225,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 622.5,
+          "output_per_million": 622.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 1.245,
           "output_per_million": 4.98,
           "cache_read_per_million": 0.6225,
@@ -135930,6 +136498,22 @@
           "cache_read_per_million": 0.0125,
           "cache_write_per_million": 0.0,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.1,
+          "output_per_million": 0.4,
+          "cache_read_per_million": 0.025,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.05,
+          "output_per_million": 0.2,
+          "cache_read_per_million": 0.0125,
+          "cache_write_per_million": 0.0,
+          "request_price": null
         }
       ]
     },
@@ -137262,6 +137846,22 @@
           "cache_read_per_million": 0.065,
           "cache_write_per_million": 0.0,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.65,
+          "output_per_million": 2.7,
+          "cache_read_per_million": 0.13,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.325,
+          "output_per_million": 1.35,
+          "cache_read_per_million": 0.065,
+          "cache_write_per_million": 0.0,
+          "request_price": null
         }
       ]
     },
@@ -138045,6 +138645,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.1,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.2,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 1.0,
           "output_per_million": 5.0,
           "cache_read_per_million": 0.1,
@@ -139522,6 +140138,22 @@
           "cache_read_per_million": 0.005,
           "cache_write_per_million": 0.0,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.1,
+          "output_per_million": 0.2,
+          "cache_read_per_million": 0.01,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.05,
+          "output_per_million": 0.1,
+          "cache_read_per_million": 0.005,
+          "cache_write_per_million": 0.0,
+          "request_price": null
         }
       ]
     },
@@ -140633,6 +141265,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 0.105,
+          "output_per_million": 0.42,
+          "cache_read_per_million": 0.021,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.21,
+          "output_per_million": 0.84,
+          "cache_read_per_million": 0.042,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 0.105,
           "output_per_million": 0.42,
           "cache_read_per_million": 0.021,
@@ -147978,6 +148626,22 @@
           "cache_read_per_million": 0.12,
           "cache_write_per_million": 0.75,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.2,
+          "output_per_million": 3.6,
+          "cache_read_per_million": 0.24,
+          "cache_write_per_million": 1.5,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.6,
+          "output_per_million": 1.8,
+          "cache_read_per_million": 0.12,
+          "cache_write_per_million": 0.75,
+          "request_price": null
         }
       ]
     },
@@ -148705,6 +149369,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 0.6,
+          "output_per_million": 1.8,
+          "cache_read_per_million": 0.12,
+          "cache_write_per_million": 0.75,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.2,
+          "output_per_million": 3.6,
+          "cache_read_per_million": 0.24,
+          "cache_write_per_million": 1.5,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 0.6,
           "output_per_million": 1.8,
           "cache_read_per_million": 0.12,
@@ -155282,6 +155962,22 @@
           "cache_read_per_million": 0.0075,
           "cache_write_per_million": 0.0,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.45,
+          "output_per_million": 1.35,
+          "cache_read_per_million": 0.015,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.225,
+          "output_per_million": 0.675,
+          "cache_read_per_million": 0.0075,
+          "cache_write_per_million": 0.0,
+          "request_price": null
         }
       ]
     },
@@ -156901,6 +157597,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 0.3,
+          "output_per_million": 0.9,
+          "cache_read_per_million": 0.015,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.6,
+          "output_per_million": 1.8,
+          "cache_read_per_million": 0.03,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 0.3,
           "output_per_million": 0.9,
           "cache_read_per_million": 0.015,
@@ -163529,6 +164241,22 @@
         },
         {
           "captured_at": "2026-10-15T21:29:19Z",
+          "input_per_million": 0.05,
+          "output_per_million": 0.2,
+          "cache_read_per_million": 0.001,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.1,
+          "output_per_million": 0.4,
+          "cache_read_per_million": 0.002,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
           "input_per_million": 0.05,
           "output_per_million": 0.2,
           "cache_read_per_million": 0.001,
@@ -178110,6 +178838,22 @@
           "cache_read_per_million": 0.085,
           "cache_write_per_million": 0.0,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.65,
+          "output_per_million": 2.7,
+          "cache_read_per_million": 0.17,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.325,
+          "output_per_million": 1.35,
+          "cache_read_per_million": 0.085,
+          "cache_write_per_million": 0.0,
+          "request_price": null
         }
       ]
     },
@@ -179332,7 +180076,3127 @@
           "request_price": null
         }
       ]
+    },
+    "api_hub|codex-auto-review|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 1.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 1.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 1.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 1.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-flash|ChatGPT-Pro【稳定】（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.44999999999999996,
+          "cache_read_per_million": 0.0005,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-flash|ChatGPT-Pro混池（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.44999999999999996,
+          "cache_read_per_million": 0.0005,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-flash|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.44999999999999996,
+          "cache_read_per_million": 0.0005,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-flash|官key强制fast-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.44999999999999996,
+          "cache_read_per_million": 0.0005,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro|ChatGPT-Pro【稳定】（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro",
+      "source_model": "gpt-5.2-pro",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro|ChatGPT-Pro混池（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro",
+      "source_model": "gpt-5.2-pro",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro",
+      "source_model": "gpt-5.2-pro",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro|官key强制fast-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro",
+      "source_model": "gpt-5.2-pro",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro-2025-12-11|ChatGPT-Pro【稳定】（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro-2025-12-11",
+      "source_model": "gpt-5.2-pro-2025-12-11",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro-2025-12-11|ChatGPT-Pro混池（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro-2025-12-11",
+      "source_model": "gpt-5.2-pro-2025-12-11",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro-2025-12-11|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro-2025-12-11",
+      "source_model": "gpt-5.2-pro-2025-12-11",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro-2025-12-11|官key强制fast-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro-2025-12-11",
+      "source_model": "gpt-5.2-pro-2025-12-11",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-3-codex|ChatGPT-Pro【稳定】（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-3-codex",
+      "source_model": "gpt-5.3-codex",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.75,
+          "output_per_million": 14.0,
+          "cache_read_per_million": 0.175,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-3-codex|ChatGPT-Pro混池（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-3-codex",
+      "source_model": "gpt-5.3-codex",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.75,
+          "output_per_million": 14.0,
+          "cache_read_per_million": 0.175,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-3-codex|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-3-codex",
+      "source_model": "gpt-5.3-codex",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.75,
+          "output_per_million": 14.0,
+          "cache_read_per_million": 0.175,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-3-codex|官key强制fast-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-3-codex",
+      "source_model": "gpt-5.3-codex",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 1.75,
+          "output_per_million": 14.0,
+          "cache_read_per_million": 0.175,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.5,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.5,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.5,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.5,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-mini|ChatGPT-Pro【稳定】（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-mini",
+      "source_model": "gpt-5.4-mini",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.75,
+          "output_per_million": 4.5,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-mini|ChatGPT-Pro混池（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-mini",
+      "source_model": "gpt-5.4-mini",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.75,
+          "output_per_million": 4.5,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-mini|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-mini",
+      "source_model": "gpt-5.4-mini",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.75,
+          "output_per_million": 4.5,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-mini|官key强制fast-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-mini",
+      "source_model": "gpt-5.4-mini",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.75,
+          "output_per_million": 4.5,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 1.2,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.39999999999999997,
+          "output_per_million": 1.7999999999999998,
+          "cache_read_per_million": 0.04,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 1.2,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.39999999999999997,
+          "output_per_million": 1.7999999999999998,
+          "cache_read_per_million": 0.04,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 1.2,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.39999999999999997,
+          "output_per_million": 1.7999999999999998,
+          "cache_read_per_million": 0.04,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 1.2,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.39999999999999997,
+          "output_per_million": 1.7999999999999998,
+          "cache_read_per_million": 0.04,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro|ChatGPT-Pro【稳定】（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro",
+      "source_model": "gpt-5-pro",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro|ChatGPT-Pro混池（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro",
+      "source_model": "gpt-5-pro",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro",
+      "source_model": "gpt-5-pro",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro|官key强制fast-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro",
+      "source_model": "gpt-5-pro",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro-2025-10-06|ChatGPT-Pro【稳定】（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro-2025-10-06",
+      "source_model": "gpt-5-pro-2025-10-06",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro-2025-10-06|ChatGPT-Pro混池（不降智）|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro-2025-10-06",
+      "source_model": "gpt-5-pro-2025-10-06",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro-2025-10-06|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro-2025-10-06",
+      "source_model": "gpt-5-pro-2025-10-06",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro-2025-10-06|官key强制fast-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro-2025-10-06",
+      "source_model": "gpt-5-pro-2025-10-06",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 20.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 25.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 20.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 25.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 20.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 25.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 20.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 25.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.09999999999999999,
+          "output_per_million": 0.5,
+          "cache_read_per_million": 0.01,
+          "cache_write_per_million": 0.125,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 0.75,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.09999999999999999,
+          "output_per_million": 0.5,
+          "cache_read_per_million": 0.01,
+          "cache_write_per_million": 0.125,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 0.75,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.09999999999999999,
+          "output_per_million": 0.5,
+          "cache_read_per_million": 0.01,
+          "cache_write_per_million": 0.125,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 0.75,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.09999999999999999,
+          "output_per_million": 0.5,
+          "cache_read_per_million": 0.01,
+          "cache_write_per_million": 0.125,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 0.75,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|官key分组-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|官key分组-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|官key强制fast-非伪官key|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|官key强制fast-非伪官key|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "官key强制fast-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-16T04:39:11Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
     }
   },
-  "updated_at": "2026-10-15T21:29:19Z"
+  "updated_at": "2026-10-16T04:39:11Z"
 }
