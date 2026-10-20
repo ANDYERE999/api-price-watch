@@ -2446,6 +2446,14 @@
           "cache_read_per_million": 0.09999999999999999,
           "cache_write_per_million": 1.25,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.25,
+          "output_per_million": 1.25,
+          "cache_read_per_million": 0.03,
+          "cache_write_per_million": 0.3,
+          "request_price": null
         }
       ]
     },
@@ -3945,6 +3953,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.1,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 375.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 1.0,
           "output_per_million": 5.0,
           "cache_read_per_million": 0.1,
@@ -6622,6 +6646,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 1.5,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -7029,6 +7061,14 @@
           "output_per_million": 25.0,
           "cache_read_per_million": 0.5,
           "cache_write_per_million": 6.25,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 5.0,
+          "output_per_million": 25.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
           "request_price": null
         }
       ]
@@ -17254,6 +17294,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -19474,6 +19522,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -21691,6 +21747,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 0.48999999999999994,
           "output_per_million": 1.9599999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -24158,6 +24222,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.8999999999999995,
+          "output_per_million": 19.599999999999998,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -26517,6 +26597,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 7.0,
+          "output_per_million": 28.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 7.0,
           "output_per_million": 28.0,
           "cache_read_per_million": null,
@@ -28886,6 +28982,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.8999999999999995,
+          "output_per_million": 19.599999999999998,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -31242,6 +31354,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -33398,6 +33526,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.2,
+          "output_per_million": 4.8,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -35549,6 +35693,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 0.84,
           "output_per_million": 3.36,
           "cache_read_per_million": null,
@@ -37926,6 +38086,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -40258,6 +40434,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.2,
+          "output_per_million": 4.8,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -42585,6 +42777,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 0.84,
+          "output_per_million": 3.36,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 0.84,
           "output_per_million": 3.36,
           "cache_read_per_million": null,
@@ -45002,6 +45210,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -47334,6 +47550,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -49663,6 +49887,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 0.9099999999999999,
           "output_per_million": 3.6399999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -52158,6 +52390,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -54490,6 +54738,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 300.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -56817,6 +57081,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
           "cache_read_per_million": null,
@@ -59214,6 +59494,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.21,
+          "output_per_million": 1.74999999999993,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -61503,6 +61791,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.3,
+          "output_per_million": 2.4999999999999,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -63943,6 +64239,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.21,
+          "output_per_million": 1.74999999999993,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -66670,6 +66974,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.06999999999999999,
+          "output_per_million": 0.27999999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -68949,6 +69269,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 0.1,
+          "output_per_million": 0.4,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 0.1,
           "output_per_million": 0.4,
           "cache_read_per_million": null,
@@ -71381,6 +71717,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 0.06999999999999999,
+          "output_per_million": 0.27999999999999997,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 0.06999999999999999,
           "output_per_million": 0.27999999999999997,
           "cache_read_per_million": null,
@@ -74490,6 +74842,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -76819,6 +77179,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 1.25,
           "output_per_million": 10.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -79291,6 +79659,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 0.875,
           "output_per_million": 7.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -82378,6 +82754,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -84662,6 +85054,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 300.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -86941,6 +87349,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
           "cache_read_per_million": null,
@@ -92618,6 +93042,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.4,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -94990,6 +95430,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -97357,6 +97813,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 1.4,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 1.4,
           "output_per_million": 8.399999999999999,
           "cache_read_per_million": null,
@@ -100970,6 +101442,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.4,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -103233,6 +103721,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 75.0,
           "output_per_million": 75.0,
           "cache_read_per_million": null,
@@ -105629,6 +106133,22 @@
         },
         {
           "captured_at": "2026-10-19T22:25:43Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.4,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
           "input_per_million": 52.5,
           "output_per_million": 52.5,
           "cache_read_per_million": null,
@@ -108294,6 +108814,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -110631,6 +111159,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 4.0,
           "output_per_million": 16.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -112974,6 +113510,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -115287,6 +115831,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -117606,6 +118158,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -119919,6 +120479,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -122266,6 +122834,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -124550,6 +125126,14 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 75.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -126831,6 +127415,14 @@
           "captured_at": "2026-10-19T22:25:43Z",
           "input_per_million": 52.5,
           "output_per_million": 210.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 52.5,
+          "output_per_million": 52.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
@@ -135629,6 +136221,14 @@
           "output_per_million": 622.5,
           "cache_read_per_million": null,
           "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.245,
+          "output_per_million": 4.98,
+          "cache_read_per_million": 0.6225,
+          "cache_write_per_million": 0.6225,
           "request_price": null
         }
       ]
@@ -195292,7 +195892,4727 @@
           "request_price": null
         }
       ]
+    },
+    "api_hub|claude-fable-5|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-fable-5",
+      "source_model": "claude-fable-5",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-fable-5-1|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-fable-5-1",
+      "source_model": "claude-fable-5-1",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-fable-5-1|Claude-kiro|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-fable-5-1",
+      "source_model": "claude-fable-5-1",
+      "group": "Claude-kiro",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-haiku-4-5|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-haiku-4-5",
+      "source_model": "claude-haiku-4-5-20251001",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-opus-4-5|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-opus-4-5",
+      "source_model": "claude-opus-4-5",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 5.0,
+          "output_per_million": 25.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-opus-4-6|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-opus-4-6",
+      "source_model": "claude-opus-4-6",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 5.0,
+          "output_per_million": 25.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-opus-4-7|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-opus-4-7",
+      "source_model": "claude-opus-4-7",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 5.0,
+          "output_per_million": 25.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-opus-4-8|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-opus-4-8",
+      "source_model": "claude-opus-4-8",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 5.0,
+          "output_per_million": 25.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-opus-5|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-opus-5",
+      "source_model": "claude-opus-5",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 5.0,
+          "output_per_million": 25.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-opus-5-5|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-opus-5-5",
+      "source_model": "claude-opus-5-5",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 20.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-opus-5-5|Claude-kiro|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-opus-5-5",
+      "source_model": "claude-opus-5-5",
+      "group": "Claude-kiro",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 20.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-opus-5-thinking|Claude-kiro正价|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-opus-5-thinking",
+      "source_model": "claude-opus-5-thinking",
+      "group": "Claude-kiro正价",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 5.0,
+          "output_per_million": 25.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-4|Claude-kiro|token|tokens: 0 - 200000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-4",
+      "source_model": "claude-sonnet-4",
+      "group": "Claude-kiro",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 200000",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 3.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": 3.75,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-4|Claude-kiro|token|tokens: 200000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-4",
+      "source_model": "claude-sonnet-4",
+      "group": "Claude-kiro",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 200000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 6.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.6,
+          "cache_write_per_million": 7.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-4-5|Claude Code-MAX-可以蒸馏|token|tokens: 0 - 200000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-4-5",
+      "source_model": "claude-sonnet-4-5-20250929",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 200000",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 3.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": 3.75,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-4-5|Claude Code-MAX-可以蒸馏|token|tokens: 200000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-4-5",
+      "source_model": "claude-sonnet-4-5-20250929",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 200000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 6.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.6,
+          "cache_write_per_million": 7.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-4-5|Claude-kiro|token|tokens: 0 - 200000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-4-5",
+      "source_model": "claude-sonnet-4-5-20250929",
+      "group": "Claude-kiro",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 200000",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 3.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": 3.75,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-4-5|Claude-kiro|token|tokens: 200000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-4-5",
+      "source_model": "claude-sonnet-4-5-20250929",
+      "group": "Claude-kiro",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 200000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 6.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.6,
+          "cache_write_per_million": 7.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-4-6|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-4-6",
+      "source_model": "claude-sonnet-4-6",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 3.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": 3.75,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-5|Claude Code-MAX-可以蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-5",
+      "source_model": "claude-sonnet-5",
+      "group": "Claude Code-MAX-可以蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|claude-sonnet-5-5|Claude-kiro|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "claude-sonnet-5-5",
+      "source_model": "claude-sonnet-5-5",
+      "group": "Claude-kiro",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|composer-2-5|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "composer-2-5",
+      "source_model": "composer-2.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|composer-2-5|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "composer-2-5",
+      "source_model": "composer-2.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-1-flash|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-1-flash",
+      "source_model": "deepseek-v4.1-flash",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-1-flash-1017|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-1-flash-1017",
+      "source_model": "deepseek-v4.1-flash-1017",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-flash|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash-0731",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-pro|deepseek-支持蒸馏|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-pro",
+      "source_model": "deepseek-v4-pro",
+      "group": "deepseek-支持蒸馏",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.6,
+          "cache_read_per_million": 0.003,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-pro-0813|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-pro-0813",
+      "source_model": "deepseek-v4-pro-0813",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.5,
+          "output_per_million": 13.5,
+          "cache_read_per_million": 0.15,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|glm-5-1|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "glm-5-1",
+      "source_model": "glm-5.1",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 8.0,
+          "output_per_million": 28.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|glm-5-2|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "glm-5-2",
+      "source_model": "glm-5.2",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 8.0,
+          "output_per_million": 28.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|glm-5-3|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "glm-5-3",
+      "source_model": "glm-5.3",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 8.0,
+          "output_per_million": 28.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|glm-5-3-flash|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "glm-5-3-flash",
+      "source_model": "glm-5.3-flash",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 3.35,
+          "cache_read_per_million": 0.22999999999999998,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|glm-5-3-flashx|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "glm-5-3-flashx",
+      "source_model": "glm-5.3-flashx",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.0,
+          "cache_read_per_million": 0.5700000000000001,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-4-1|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-4-1",
+      "source_model": "gpt-4.1",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 8.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-4-1-mini|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-4-1-mini",
+      "source_model": "gpt-4.1-mini",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.39999999999999997,
+          "output_per_million": 1.5999999999999999,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-4o|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-4o",
+      "source_model": "gpt-4o",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 1.25,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-4o-mini|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-4o-mini",
+      "source_model": "gpt-4o-mini",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.6,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2",
+      "source_model": "gpt-5.2",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.75,
+          "output_per_million": 14.0,
+          "cache_read_per_million": 0.175,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-nano|官key分组-非伪官key|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-nano",
+      "source_model": "gpt-5.4-nano",
+      "group": "官key分组-非伪官key",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 1.25,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok",
+      "source_model": "grok",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok",
+      "source_model": "grok",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-3-mini|Grok|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-3-mini",
+      "source_model": "grok-3-mini",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.3,
+          "output_per_million": 0.5,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-3-mini-fast|Grok|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-3-mini-fast",
+      "source_model": "grok-3-mini-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.6,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.15,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-20-multi-agent|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-20-multi-agent",
+      "source_model": "grok-4.20-multi-agent",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-20-multi-agent|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-20-multi-agent",
+      "source_model": "grok-4.20-multi-agent",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-20-multi-agent-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-20-multi-agent-latest",
+      "source_model": "grok-4.20-multi-agent-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-20-multi-agent-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-20-multi-agent-latest",
+      "source_model": "grok-4.20-multi-agent-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-20-non-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-20-non-reasoning",
+      "source_model": "grok-4.20-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-20-non-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-20-non-reasoning",
+      "source_model": "grok-4.20-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-20-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-20-reasoning",
+      "source_model": "grok-4.20-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-20-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-20-reasoning",
+      "source_model": "grok-4.20-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-3-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-3-latest",
+      "source_model": "grok-4.3-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-3-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-3-latest",
+      "source_model": "grok-4.3-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-5-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-5-latest",
+      "source_model": "grok-4.5-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-5-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-5-latest",
+      "source_model": "grok-4.5-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.6,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-6-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-6-latest",
+      "source_model": "grok-4.6-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-6-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-6-latest",
+      "source_model": "grok-4.6-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-7-build-fast|Grok heavy订阅|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-7-build-fast",
+      "source_model": "grok-4.7-build-fast",
+      "group": "Grok heavy订阅",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-7-build-fast|Grok heavy订阅|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-7-build-fast",
+      "source_model": "grok-4.7-build-fast",
+      "group": "Grok heavy订阅",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-7-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-7-latest",
+      "source_model": "grok-4.7-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-4-7-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-4-7-latest",
+      "source_model": "grok-4.7-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-build|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-build",
+      "source_model": "grok-build",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-build|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-build",
+      "source_model": "grok-build",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-build-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-build-latest",
+      "source_model": "grok-build-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-build-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-build-latest",
+      "source_model": "grok-build-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-composer|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-composer",
+      "source_model": "grok-composer",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-composer|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-composer",
+      "source_model": "grok-composer",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-composer-2-5-fast|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-composer-2-5-fast",
+      "source_model": "grok-composer-2.5-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-composer-2-5-fast|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-composer-2-5-fast",
+      "source_model": "grok-composer-2.5-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-latest",
+      "source_model": "grok-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok-latest",
+      "source_model": "grok-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/composer-2-5|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/composer-2-5",
+      "source_model": "grok/composer-2.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/composer-2-5|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/composer-2-5",
+      "source_model": "grok/composer-2.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok",
+      "source_model": "grok/grok",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok",
+      "source_model": "grok/grok",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-3-mini|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-3-mini",
+      "source_model": "grok/grok-3-mini",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-3-mini|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-3-mini",
+      "source_model": "grok/grok-3-mini",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-3-mini-fast|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-3-mini-fast",
+      "source_model": "grok/grok-3-mini-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-3-mini-fast|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-3-mini-fast",
+      "source_model": "grok/grok-3-mini-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-0309-non-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-0309-non-reasoning",
+      "source_model": "grok/grok-4.20-0309-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-0309-non-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-0309-non-reasoning",
+      "source_model": "grok/grok-4.20-0309-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-0309-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-0309-reasoning",
+      "source_model": "grok/grok-4.20-0309-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-0309-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-0309-reasoning",
+      "source_model": "grok/grok-4.20-0309-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-multi-agent|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-multi-agent",
+      "source_model": "grok/grok-4.20-multi-agent",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-multi-agent|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-multi-agent",
+      "source_model": "grok/grok-4.20-multi-agent",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-multi-agent-0309|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-multi-agent-0309",
+      "source_model": "grok/grok-4.20-multi-agent-0309",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-multi-agent-0309|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-multi-agent-0309",
+      "source_model": "grok/grok-4.20-multi-agent-0309",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-multi-agent-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-multi-agent-latest",
+      "source_model": "grok/grok-4.20-multi-agent-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-multi-agent-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-multi-agent-latest",
+      "source_model": "grok/grok-4.20-multi-agent-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-non-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-non-reasoning",
+      "source_model": "grok/grok-4.20-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-non-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-non-reasoning",
+      "source_model": "grok/grok-4.20-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-reasoning",
+      "source_model": "grok/grok-4.20-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-20-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-20-reasoning",
+      "source_model": "grok/grok-4.20-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-3|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-3",
+      "source_model": "grok/grok-4.3",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-3|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-3",
+      "source_model": "grok/grok-4.3",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-3-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-3-latest",
+      "source_model": "grok/grok-4.3-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-3-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-3-latest",
+      "source_model": "grok/grok-4.3-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-5|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-5",
+      "source_model": "grok/grok-4.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-5|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-5",
+      "source_model": "grok/grok-4.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.6,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-5-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-5-latest",
+      "source_model": "grok/grok-4.5-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-5-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-5-latest",
+      "source_model": "grok/grok-4.5-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-6|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-6",
+      "source_model": "grok/grok-4.6",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-6|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-6",
+      "source_model": "grok/grok-4.6",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-6-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-6-latest",
+      "source_model": "grok/grok-4.6-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-6-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-6-latest",
+      "source_model": "grok/grok-4.6-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-7|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-7",
+      "source_model": "grok/grok-4.7",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-7|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-7",
+      "source_model": "grok/grok-4.7",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-7-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-7-latest",
+      "source_model": "grok/grok-4.7-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-4-7-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-4-7-latest",
+      "source_model": "grok/grok-4.7-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-build|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-build",
+      "source_model": "grok/grok-build",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-build|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-build",
+      "source_model": "grok/grok-build",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-build-0-1|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-build-0-1",
+      "source_model": "grok/grok-build-0.1",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-build-0-1|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-build-0-1",
+      "source_model": "grok/grok-build-0.1",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-build-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-build-latest",
+      "source_model": "grok/grok-build-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-build-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-build-latest",
+      "source_model": "grok/grok-build-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-composer|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-composer",
+      "source_model": "grok/grok-composer",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-composer|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-composer",
+      "source_model": "grok/grok-composer",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-composer-2-5-fast|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-composer-2-5-fast",
+      "source_model": "grok/grok-composer-2.5-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-composer-2-5-fast|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-composer-2-5-fast",
+      "source_model": "grok/grok-composer-2.5-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-latest",
+      "source_model": "grok/grok-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|grok/grok-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "grok/grok-latest",
+      "source_model": "grok/grok-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|hy3|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "hy3",
+      "source_model": "hy3",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|hy4-preview|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "hy4-preview",
+      "source_model": "hy4-preview",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 6.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|kimi-k2-7-code|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "kimi-k2-7-code",
+      "source_model": "kimi-k2.7-code",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 6.5,
+          "output_per_million": 27.0,
+          "cache_read_per_million": 1.3,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|kimi-k2-8|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "kimi-k2-8",
+      "source_model": "kimi-k2.8",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 6.5,
+          "output_per_million": 27.0,
+          "cache_read_per_million": 1.7,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|kimi-k3|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "kimi-k3",
+      "source_model": "kimi-k3",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 20.0,
+          "output_per_million": 100.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|mimo-v2-5|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "mimo-v2-5",
+      "source_model": "mimo-v2.5",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|mimo-v2-5-pro|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "mimo-v2-5-pro",
+      "source_model": "mimo-v2.5-pro",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 3.1,
+          "output_per_million": 6.1,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|mimo-v2-6-flash|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "mimo-v2-6-flash",
+      "source_model": "mimo-v2.6-flash",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.06,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|mimo-v2-6-pro|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "mimo-v2-6-pro",
+      "source_model": "mimo-v2.6-pro",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.35,
+          "output_per_million": 8.7,
+          "cache_read_per_million": 0.036,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|minimax-m2-7|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "minimax-m2-7",
+      "source_model": "MiniMax-M2.7",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0999999999999996,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": 0.42,
+          "cache_write_per_million": 2.63,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|minimax-m2-7-highspeed|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "minimax-m2-7-highspeed",
+      "source_model": "MiniMax-M2.7-highspeed",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.199999999999999,
+          "output_per_million": 16.799999999999997,
+          "cache_read_per_million": 0.42,
+          "cache_write_per_million": 2.63,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|minimax-m3|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "minimax-m3",
+      "source_model": "MiniMax-M3",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0999999999999996,
+          "output_per_million": 8.399999999999999,
+          "cache_read_per_million": 0.42,
+          "cache_write_per_million": 0.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|qwen3-7-max|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "qwen3-7-max",
+      "source_model": "qwen3.7-max",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 12.0,
+          "output_per_million": 36.0,
+          "cache_read_per_million": 2.4,
+          "cache_write_per_million": 15.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|qwen3-8-flash|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "qwen3-8-flash",
+      "source_model": "qwen3.8-flash",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 0.7999999999999999,
+          "output_per_million": 2.7,
+          "cache_read_per_million": 0.16,
+          "cache_write_per_million": 1.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|qwen3-8-max|国模大杂烩稳定分组-高缓存|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "qwen3-8-max",
+      "source_model": "qwen3.8-max",
+      "group": "国模大杂烩稳定分组-高缓存",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 12.0,
+          "output_per_million": 36.0,
+          "cache_read_per_million": 2.4,
+          "cache_write_per_million": 15.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/composer-2-5|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/composer-2-5",
+      "source_model": "x-ai/composer-2.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/composer-2-5|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/composer-2-5",
+      "source_model": "x-ai/composer-2.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok",
+      "source_model": "x-ai/grok",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok",
+      "source_model": "x-ai/grok",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-3-mini|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-3-mini",
+      "source_model": "x-ai/grok-3-mini",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-3-mini|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-3-mini",
+      "source_model": "x-ai/grok-3-mini",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-3-mini-fast|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-3-mini-fast",
+      "source_model": "x-ai/grok-3-mini-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-3-mini-fast|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-3-mini-fast",
+      "source_model": "x-ai/grok-3-mini-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-0309-non-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-0309-non-reasoning",
+      "source_model": "x-ai/grok-4.20-0309-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-0309-non-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-0309-non-reasoning",
+      "source_model": "x-ai/grok-4.20-0309-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-0309-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-0309-reasoning",
+      "source_model": "x-ai/grok-4.20-0309-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-0309-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-0309-reasoning",
+      "source_model": "x-ai/grok-4.20-0309-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-multi-agent|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-multi-agent",
+      "source_model": "x-ai/grok-4.20-multi-agent",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-multi-agent|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-multi-agent",
+      "source_model": "x-ai/grok-4.20-multi-agent",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-multi-agent-0309|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-multi-agent-0309",
+      "source_model": "x-ai/grok-4.20-multi-agent-0309",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-multi-agent-0309|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-multi-agent-0309",
+      "source_model": "x-ai/grok-4.20-multi-agent-0309",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-multi-agent-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-multi-agent-latest",
+      "source_model": "x-ai/grok-4.20-multi-agent-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-multi-agent-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-multi-agent-latest",
+      "source_model": "x-ai/grok-4.20-multi-agent-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-non-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-non-reasoning",
+      "source_model": "x-ai/grok-4.20-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-non-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-non-reasoning",
+      "source_model": "x-ai/grok-4.20-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-reasoning",
+      "source_model": "x-ai/grok-4.20-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-20-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-20-reasoning",
+      "source_model": "x-ai/grok-4.20-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-3|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-3",
+      "source_model": "x-ai/grok-4.3",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-3|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-3",
+      "source_model": "x-ai/grok-4.3",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-3-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-3-latest",
+      "source_model": "x-ai/grok-4.3-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-3-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-3-latest",
+      "source_model": "x-ai/grok-4.3-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-5|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-5",
+      "source_model": "x-ai/grok-4.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-5|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-5",
+      "source_model": "x-ai/grok-4.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.6,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-5-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-5-latest",
+      "source_model": "x-ai/grok-4.5-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-5-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-5-latest",
+      "source_model": "x-ai/grok-4.5-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-6|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-6",
+      "source_model": "x-ai/grok-4.6",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-6|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-6",
+      "source_model": "x-ai/grok-4.6",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-6-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-6-latest",
+      "source_model": "x-ai/grok-4.6-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-6-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-6-latest",
+      "source_model": "x-ai/grok-4.6-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-7|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-7",
+      "source_model": "x-ai/grok-4.7",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-7|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-7",
+      "source_model": "x-ai/grok-4.7",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-7-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-7-latest",
+      "source_model": "x-ai/grok-4.7-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-4-7-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-4-7-latest",
+      "source_model": "x-ai/grok-4.7-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-build|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-build",
+      "source_model": "x-ai/grok-build",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-build|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-build",
+      "source_model": "x-ai/grok-build",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-build-0-1|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-build-0-1",
+      "source_model": "x-ai/grok-build-0.1",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-build-0-1|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-build-0-1",
+      "source_model": "x-ai/grok-build-0.1",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-build-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-build-latest",
+      "source_model": "x-ai/grok-build-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-build-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-build-latest",
+      "source_model": "x-ai/grok-build-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-composer|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-composer",
+      "source_model": "x-ai/grok-composer",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-composer|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-composer",
+      "source_model": "x-ai/grok-composer",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-composer-2-5-fast|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-composer-2-5-fast",
+      "source_model": "x-ai/grok-composer-2.5-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-composer-2-5-fast|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-composer-2-5-fast",
+      "source_model": "x-ai/grok-composer-2.5-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-latest",
+      "source_model": "x-ai/grok-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|x-ai/grok-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "x-ai/grok-latest",
+      "source_model": "x-ai/grok-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/composer-2-5|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/composer-2-5",
+      "source_model": "xai/composer-2.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/composer-2-5|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/composer-2-5",
+      "source_model": "xai/composer-2.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok",
+      "source_model": "xai/grok",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok",
+      "source_model": "xai/grok",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-3-mini|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-3-mini",
+      "source_model": "xai/grok-3-mini",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-3-mini|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-3-mini",
+      "source_model": "xai/grok-3-mini",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-3-mini-fast|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-3-mini-fast",
+      "source_model": "xai/grok-3-mini-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-3-mini-fast|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-3-mini-fast",
+      "source_model": "xai/grok-3-mini-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-0309-non-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-0309-non-reasoning",
+      "source_model": "xai/grok-4.20-0309-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-0309-non-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-0309-non-reasoning",
+      "source_model": "xai/grok-4.20-0309-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-0309-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-0309-reasoning",
+      "source_model": "xai/grok-4.20-0309-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-0309-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-0309-reasoning",
+      "source_model": "xai/grok-4.20-0309-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-multi-agent|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-multi-agent",
+      "source_model": "xai/grok-4.20-multi-agent",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-multi-agent|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-multi-agent",
+      "source_model": "xai/grok-4.20-multi-agent",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-multi-agent-0309|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-multi-agent-0309",
+      "source_model": "xai/grok-4.20-multi-agent-0309",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-multi-agent-0309|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-multi-agent-0309",
+      "source_model": "xai/grok-4.20-multi-agent-0309",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-multi-agent-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-multi-agent-latest",
+      "source_model": "xai/grok-4.20-multi-agent-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-multi-agent-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-multi-agent-latest",
+      "source_model": "xai/grok-4.20-multi-agent-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-non-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-non-reasoning",
+      "source_model": "xai/grok-4.20-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-non-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-non-reasoning",
+      "source_model": "xai/grok-4.20-non-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-reasoning|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-reasoning",
+      "source_model": "xai/grok-4.20-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-20-reasoning|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-20-reasoning",
+      "source_model": "xai/grok-4.20-reasoning",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-3|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-3",
+      "source_model": "xai/grok-4.3",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.25,
+          "output_per_million": 2.5,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-3|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-3",
+      "source_model": "xai/grok-4.3",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.5,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-3-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-3-latest",
+      "source_model": "xai/grok-4.3-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-3-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-3-latest",
+      "source_model": "xai/grok-4.3-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-5|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-5",
+      "source_model": "xai/grok-4.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.3,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-5|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-5",
+      "source_model": "xai/grok-4.5",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.6,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-5-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-5-latest",
+      "source_model": "xai/grok-4.5-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-5-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-5-latest",
+      "source_model": "xai/grok-4.5-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-6|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-6",
+      "source_model": "xai/grok-4.6",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-6|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-6",
+      "source_model": "xai/grok-4.6",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-6-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-6-latest",
+      "source_model": "xai/grok-4.6-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-6-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-6-latest",
+      "source_model": "xai/grok-4.6-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-7|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-7",
+      "source_model": "xai/grok-4.7",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-7|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-7",
+      "source_model": "xai/grok-4.7",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-7-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-7-latest",
+      "source_model": "xai/grok-4.7-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-4-7-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-4-7-latest",
+      "source_model": "xai/grok-4.7-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-build|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-build",
+      "source_model": "xai/grok-build",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-build|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-build",
+      "source_model": "xai/grok-build",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-build-0-1|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-build-0-1",
+      "source_model": "xai/grok-build-0.1",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 1.0,
+          "output_per_million": 2.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-build-0-1|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-build-0-1",
+      "source_model": "xai/grok-build-0.1",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 4.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-build-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-build-latest",
+      "source_model": "xai/grok-build-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-build-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-build-latest",
+      "source_model": "xai/grok-build-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-composer|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-composer",
+      "source_model": "xai/grok-composer",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-composer|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-composer",
+      "source_model": "xai/grok-composer",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-composer-2-5-fast|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-composer-2-5-fast",
+      "source_model": "xai/grok-composer-2.5-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-composer-2-5-fast|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-composer-2-5-fast",
+      "source_model": "xai/grok-composer-2.5-fast",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-latest|Grok|token|tokens: 0 - 199999": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-latest",
+      "source_model": "xai/grok-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 199999",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 2.0,
+          "output_per_million": 6.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|xai/grok-latest|Grok|token|tokens: 199999 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "xai/grok-latest",
+      "source_model": "xai/grok-latest",
+      "group": "Grok",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 199999 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-20T04:58:12Z",
+          "input_per_million": 4.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
     }
   },
-  "updated_at": "2026-10-19T22:25:43Z"
+  "updated_at": "2026-10-20T04:58:12Z"
 }
