@@ -2918,6 +2918,22 @@
           "cache_read_per_million": 0.03,
           "cache_write_per_million": 0.3,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.25,
+          "output_per_million": 1.25,
+          "cache_read_per_million": 0.03,
+          "cache_write_per_million": 0.3,
+          "request_price": null
         }
       ]
     },
@@ -7692,6 +7708,14 @@
           "input_per_million": 15.0,
           "output_per_million": 75.0,
           "cache_read_per_million": 1.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
         }
@@ -214246,6 +214270,14 @@
           "cache_read_per_million": 0.02,
           "cache_write_per_million": 0.25,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 0.5,
+          "request_price": null
         }
       ]
     },
@@ -214265,6 +214297,14 @@
           "output_per_million": 1.7999999999999998,
           "cache_read_per_million": 0.04,
           "cache_write_per_million": 0.5,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 1.0,
           "request_price": null
         }
       ]
@@ -215896,7 +215936,2327 @@
           "request_price": null
         }
       ]
+    },
+    "api_hub|codex-auto-review|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 1.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|codex-auto-review|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "codex-auto-review",
+      "source_model": "codex-auto-review",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 1.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-flash|5.6 Luna/Terra模型分组 |token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.44999999999999996,
+          "cache_read_per_million": 0.0005,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-flash|6 Luna分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.44999999999999996,
+          "cache_read_per_million": 0.0005,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|deepseek-v4-flash|openAI宝宝分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "deepseek-v4-flash",
+      "source_model": "deepseek-v4-flash",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.15,
+          "output_per_million": 0.44999999999999996,
+          "cache_read_per_million": 0.0005,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro|5.6 Luna/Terra模型分组 |token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro",
+      "source_model": "gpt-5.2-pro",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro|6 Luna分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro",
+      "source_model": "gpt-5.2-pro",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro|openAI宝宝分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro",
+      "source_model": "gpt-5.2-pro",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro-2025-12-11|5.6 Luna/Terra模型分组 |token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro-2025-12-11",
+      "source_model": "gpt-5.2-pro-2025-12-11",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro-2025-12-11|6 Luna分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro-2025-12-11",
+      "source_model": "gpt-5.2-pro-2025-12-11",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-2-pro-2025-12-11|openAI宝宝分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-2-pro-2025-12-11",
+      "source_model": "gpt-5.2-pro-2025-12-11",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 21.0,
+          "output_per_million": 168.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-3-codex|5.6 Luna/Terra模型分组 |token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-3-codex",
+      "source_model": "gpt-5.3-codex",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.75,
+          "output_per_million": 14.0,
+          "cache_read_per_million": 0.175,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-3-codex|6 Luna分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-3-codex",
+      "source_model": "gpt-5.3-codex",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.75,
+          "output_per_million": 14.0,
+          "cache_read_per_million": 0.175,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-3-codex|openAI宝宝分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-3-codex",
+      "source_model": "gpt-5.3-codex",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.75,
+          "output_per_million": 14.0,
+          "cache_read_per_million": 0.175,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.5,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.5,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|openAI宝宝分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.5,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.25,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4|openAI宝宝分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4",
+      "source_model": "gpt-5.4",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 22.5,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-mini|5.6 Luna/Terra模型分组 |token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-mini",
+      "source_model": "gpt-5.4-mini",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.75,
+          "output_per_million": 4.5,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-mini|6 Luna分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-mini",
+      "source_model": "gpt-5.4-mini",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.75,
+          "output_per_million": 4.5,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-mini|openAI宝宝分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-mini",
+      "source_model": "gpt-5.4-mini",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.75,
+          "output_per_million": 4.5,
+          "cache_read_per_million": 0.075,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|openAI宝宝分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro|openAI宝宝分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro",
+      "source_model": "gpt-5.4-pro",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|openAI宝宝分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-4-pro-2026-03-05|openAI宝宝分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-4-pro-2026-03-05",
+      "source_model": "gpt-5.4-pro-2026-03-05",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5",
+      "source_model": "gpt-5.5",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|openAI宝宝分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-2026-04-23|openAI宝宝分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-2026-04-23",
+      "source_model": "gpt-5.5-2026-04-23",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|openAI宝宝分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro|openAI宝宝分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro",
+      "source_model": "gpt-5.5-pro",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|openAI宝宝分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 30.0,
+          "output_per_million": 180.0,
+          "cache_read_per_million": 3.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-5-pro-2026-04-23|openAI宝宝分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-5-pro-2026-04-23",
+      "source_model": "gpt-5.5-pro-2026-04-23",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 60.0,
+          "output_per_million": 270.0,
+          "cache_read_per_million": 6.0,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|openAI宝宝分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6|openAI宝宝分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6",
+      "source_model": "gpt-5.6",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 1.2,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-luna|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-luna",
+      "source_model": "gpt-5.6-luna",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.39999999999999997,
+          "output_per_million": 1.7999999999999998,
+          "cache_read_per_million": 0.04,
+          "cache_write_per_million": 0.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 5.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": 0.5,
+          "cache_write_per_million": 6.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-sol|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-sol",
+      "source_model": "gpt-5.6-sol",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 45.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 12.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-6-terra|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-6-terra",
+      "source_model": "gpt-5.6-terra",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 4.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro|5.6 Luna/Terra模型分组 |token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro",
+      "source_model": "gpt-5-pro",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro|6 Luna分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro",
+      "source_model": "gpt-5-pro",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro|openAI宝宝分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro",
+      "source_model": "gpt-5-pro",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro-2025-10-06|5.6 Luna/Terra模型分组 |token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro-2025-10-06",
+      "source_model": "gpt-5-pro-2025-10-06",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro-2025-10-06|6 Luna分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro-2025-10-06",
+      "source_model": "gpt-5-pro-2025-10-06",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-5-pro-2025-10-06|openAI宝宝分组|token|": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-5-pro-2025-10-06",
+      "source_model": "gpt-5-pro-2025-10-06",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 15.0,
+          "output_per_million": 120.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-sol|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-sol",
+      "source_model": "gpt-6.1-sol",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|ChatGPT-ProMax【企业】全模型不降智|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "ChatGPT-ProMax【企业】全模型不降智",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|ChatGPT-ProMax【企业】全模型不降智|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "ChatGPT-ProMax【企业】全模型不降智",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|ChatGPT-Pro混池（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|ChatGPT-Pro混池（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "ChatGPT-Pro混池（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|codex福利分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "codex福利分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|codex福利分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "codex福利分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|openAI宝宝分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|openAI宝宝分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "openAI宝宝分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|官key分组（非伪官key）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "官key分组（非伪官key）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|官key分组（非伪官key）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "官key分组（非伪官key）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|永不降智gpt|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "永不降智gpt",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.049999999999999996,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-1-terra|永不降智gpt|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "永不降智gpt",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 7.5,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "rtoc|gpt-6-1-terra|02 GPT|token|len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)": {
+      "provider_id": "rtoc",
+      "provider_name": "RTOC",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "02 GPT",
+      "billing_mode": "token",
+      "currency": "旋转币",
+      "condition": "len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 9.0,
+          "output_per_million": 18.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "rtoc|gpt-6-1-terra|03 GPT|token|len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)": {
+      "provider_id": "rtoc",
+      "provider_name": "RTOC",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "03 GPT",
+      "billing_mode": "token",
+      "currency": "旋转币",
+      "condition": "len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 11.25,
+          "output_per_million": 22.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "rtoc|gpt-6-1-terra|04 GPT|token|len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)": {
+      "provider_id": "rtoc",
+      "provider_name": "RTOC",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "04 GPT",
+      "billing_mode": "token",
+      "currency": "旋转币",
+      "condition": "len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 20.25,
+          "output_per_million": 40.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "rtoc|gpt-6-1-terra|04-A GPT官key|token|len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)": {
+      "provider_id": "rtoc",
+      "provider_name": "RTOC",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "04-A GPT官key",
+      "billing_mode": "token",
+      "currency": "旋转币",
+      "condition": "len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 37.5,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "rtoc|gpt-6-1-terra|05 GPT Pro|token|len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)": {
+      "provider_id": "rtoc",
+      "provider_name": "RTOC",
+      "canonical_model": "gpt-6-1-terra",
+      "source_model": "gpt-6.1-terra",
+      "group": "05 GPT Pro",
+      "billing_mode": "token",
+      "currency": "旋转币",
+      "condition": "len <= 272000 ? tier(\"standard\", p * 1 + c * 5 + cr * 0.05 + cc * 1.25) : tier(\"long_context\", p * 2 + c * 7.5 + cr * 0.1 + cc * 2.5)",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 15.0,
+          "output_per_million": 30.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 20.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 25.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-astra|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-astra",
+      "source_model": "gpt-6-astra",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 20.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 25.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.09999999999999999,
+          "output_per_million": 0.5,
+          "cache_read_per_million": 0.01,
+          "cache_write_per_million": 0.125,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-luna|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-luna",
+      "source_model": "gpt-6-luna",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 0.19999999999999998,
+          "output_per_million": 0.75,
+          "cache_read_per_million": 0.02,
+          "cache_write_per_million": 0.25,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|5.6 Luna/Terra模型分组 |token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|5.6 Luna/Terra模型分组 |token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "5.6 Luna/Terra模型分组 ",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|6 Luna分组|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.19999999999999998,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6-sol|6 Luna分组|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6-sol",
+      "source_model": "gpt-6-sol",
+      "group": "6 Luna分组",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-28T05:51:38Z",
+          "input_per_million": 4.0,
+          "output_per_million": 15.0,
+          "cache_read_per_million": 0.39999999999999997,
+          "cache_write_per_million": 5.0,
+          "request_price": null
+        }
+      ]
     }
   },
-  "updated_at": "2026-10-27T22:21:13Z"
+  "updated_at": "2026-10-28T05:51:38Z"
 }
