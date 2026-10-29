@@ -2966,6 +2966,22 @@
           "cache_read_per_million": 0.03,
           "cache_write_per_million": 0.3,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-10-29T05:55:44Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-29T05:55:44Z",
+          "input_per_million": 0.25,
+          "output_per_million": 1.25,
+          "cache_read_per_million": 0.03,
+          "cache_write_per_million": 0.3,
+          "request_price": null
         }
       ]
     },
@@ -7777,6 +7793,22 @@
         },
         {
           "captured_at": "2026-10-28T22:40:22Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-29T05:55:44Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 1.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-10-29T05:55:44Z",
           "input_per_million": 15.0,
           "output_per_million": 75.0,
           "cache_read_per_million": null,
@@ -218976,7 +219008,47 @@
           "request_price": null
         }
       ]
+    },
+    "api_hub|gpt-6|ChatGPT-Pro【稳定】（不降智）|token|tokens: 0 - 272000": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6",
+      "source_model": "gpt-6",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 0 - 272000",
+      "points": [
+        {
+          "captured_at": "2026-10-29T05:55:44Z",
+          "input_per_million": 10.0,
+          "output_per_million": 50.0,
+          "cache_read_per_million": 1.0,
+          "cache_write_per_million": 12.5,
+          "request_price": null
+        }
+      ]
+    },
+    "api_hub|gpt-6|ChatGPT-Pro【稳定】（不降智）|token|tokens: 272000 - ∞": {
+      "provider_id": "api_hub",
+      "provider_name": "API Hub Asia",
+      "canonical_model": "gpt-6",
+      "source_model": "gpt-6",
+      "group": "ChatGPT-Pro【稳定】（不降智）",
+      "billing_mode": "token",
+      "currency": "USD",
+      "condition": "tokens: 272000 - ∞",
+      "points": [
+        {
+          "captured_at": "2026-10-29T05:55:44Z",
+          "input_per_million": 20.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 2.0,
+          "cache_write_per_million": 25.0,
+          "request_price": null
+        }
+      ]
     }
   },
-  "updated_at": "2026-10-28T22:40:22Z"
+  "updated_at": "2026-10-29T05:55:44Z"
 }
