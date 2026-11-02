@@ -3174,6 +3174,22 @@
           "cache_read_per_million": 0.03,
           "cache_write_per_million": 0.3,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-11-02T21:45:33Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-02T21:45:33Z",
+          "input_per_million": 0.25,
+          "output_per_million": 1.25,
+          "cache_read_per_million": 0.03,
+          "cache_write_per_million": 0.3,
+          "request_price": null
         }
       ]
     },
@@ -3432,6 +3448,14 @@
           "input_per_million": 16.5,
           "output_per_million": 82.5,
           "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-02T21:45:33Z",
+          "input_per_million": 0.22,
+          "output_per_million": 1.1,
+          "cache_read_per_million": 0.022000000000000002,
           "cache_write_per_million": null,
           "request_price": null
         }
@@ -8289,6 +8313,22 @@
         },
         {
           "captured_at": "2026-11-02T06:19:12Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 1.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-02T21:45:33Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-02T21:45:33Z",
           "input_per_million": 15.0,
           "output_per_million": 75.0,
           "cache_read_per_million": 1.5,
@@ -210038,6 +210078,14 @@
           "cache_read_per_million": 0.044,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-11-02T21:45:33Z",
+          "input_per_million": 0.66,
+          "output_per_million": 1.9800000000000002,
+          "cache_read_per_million": 0.022,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -222328,7 +222376,47 @@
           "request_price": null
         }
       ]
+    },
+    "rtoc|claude-sonnet-5-5|06 claude|token|tier(\"base\", p * 2 + c * 10 + cr * 0.1 + cc * 2.5 + cc1h * 4)": {
+      "provider_id": "rtoc",
+      "provider_name": "RTOC",
+      "canonical_model": "claude-sonnet-5-5",
+      "source_model": "claude-sonnet-5-5",
+      "group": "06 claude",
+      "billing_mode": "token",
+      "currency": "旋转币",
+      "condition": "tier(\"base\", p * 2 + c * 10 + cr * 0.1 + cc * 2.5 + cc1h * 4)",
+      "points": [
+        {
+          "captured_at": "2026-11-02T21:45:33Z",
+          "input_per_million": 2.0,
+          "output_per_million": 10.0,
+          "cache_read_per_million": 0.2,
+          "cache_write_per_million": 2.5,
+          "request_price": null
+        }
+      ]
+    },
+    "rtoc|claude-sonnet-5-5|07 Kiro|token|tier(\"base\", p * 2 + c * 10 + cr * 0.1 + cc * 2.5 + cc1h * 4)": {
+      "provider_id": "rtoc",
+      "provider_name": "RTOC",
+      "canonical_model": "claude-sonnet-5-5",
+      "source_model": "claude-sonnet-5-5",
+      "group": "07 Kiro",
+      "billing_mode": "token",
+      "currency": "旋转币",
+      "condition": "tier(\"base\", p * 2 + c * 10 + cr * 0.1 + cc * 2.5 + cc1h * 4)",
+      "points": [
+        {
+          "captured_at": "2026-11-02T21:45:33Z",
+          "input_per_million": 0.44,
+          "output_per_million": 2.2,
+          "cache_read_per_million": 0.044000000000000004,
+          "cache_write_per_million": 0.55,
+          "request_price": null
+        }
+      ]
     }
   },
-  "updated_at": "2026-11-02T06:19:12Z"
+  "updated_at": "2026-11-02T21:45:33Z"
 }
