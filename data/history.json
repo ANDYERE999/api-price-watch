@@ -3254,6 +3254,22 @@
           "cache_read_per_million": 0.03,
           "cache_write_per_million": 0.3,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 1.0,
+          "output_per_million": 5.0,
+          "cache_read_per_million": 0.09999999999999999,
+          "cache_write_per_million": 1.25,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 0.25,
+          "output_per_million": 1.25,
+          "cache_read_per_million": 0.03,
+          "cache_write_per_million": 0.3,
+          "request_price": null
         }
       ]
     },
@@ -3533,6 +3549,22 @@
         },
         {
           "captured_at": "2026-11-04T19:50:55Z",
+          "input_per_million": 0.22,
+          "output_per_million": 1.1,
+          "cache_read_per_million": 0.022000000000000002,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 16.5,
+          "output_per_million": 82.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
           "input_per_million": 0.22,
           "output_per_million": 1.1,
           "cache_read_per_million": 0.022000000000000002,
@@ -8454,6 +8486,22 @@
           "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": 1.5,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 15.0,
+          "output_per_million": 75.0,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -9162,6 +9210,22 @@
           "cache_read_per_million": 0.11000000000000001,
           "cache_write_per_million": 1.375,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 16.5,
+          "output_per_million": 82.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 1.1,
+          "output_per_million": 5.5,
+          "cache_read_per_million": 0.11000000000000001,
+          "cache_write_per_million": 1.375,
+          "request_price": null
         }
       ]
     },
@@ -9765,6 +9829,22 @@
         },
         {
           "captured_at": "2026-11-04T19:50:55Z",
+          "input_per_million": 16.5,
+          "output_per_million": 82.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 1.1,
+          "output_per_million": 5.5,
+          "cache_read_per_million": 0.11000000000000001,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
           "input_per_million": 16.5,
           "output_per_million": 82.5,
           "cache_read_per_million": null,
@@ -10594,6 +10674,14 @@
           "cache_read_per_million": 0.11000000000000001,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 16.5,
+          "output_per_million": 82.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -11364,6 +11452,14 @@
           "input_per_million": 1.1,
           "output_per_million": 5.5,
           "cache_read_per_million": 0.11000000000000001,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 16.5,
+          "output_per_million": 82.5,
+          "cache_read_per_million": null,
           "cache_write_per_million": null,
           "request_price": null
         }
@@ -13525,6 +13621,22 @@
         },
         {
           "captured_at": "2026-11-04T19:50:55Z",
+          "input_per_million": 16.5,
+          "output_per_million": 82.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 0.66,
+          "output_per_million": 3.3,
+          "cache_read_per_million": 0.066,
+          "cache_write_per_million": null,
+          "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
           "input_per_million": 16.5,
           "output_per_million": 82.5,
           "cache_read_per_million": null,
@@ -210358,6 +210470,14 @@
           "cache_read_per_million": 0.022,
           "cache_write_per_million": null,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 1.32,
+          "output_per_million": 3.9600000000000004,
+          "cache_read_per_million": 0.044,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -220746,6 +220866,14 @@
           "cache_read_per_million": 0.022000000000000002,
           "cache_write_per_million": 0.275,
           "request_price": null
+        },
+        {
+          "captured_at": "2026-11-05T06:56:46Z",
+          "input_per_million": 16.5,
+          "output_per_million": 16.5,
+          "cache_read_per_million": null,
+          "cache_write_per_million": null,
+          "request_price": null
         }
       ]
     },
@@ -223026,5 +223154,5 @@
       ]
     }
   },
-  "updated_at": "2026-11-04T19:50:55Z"
+  "updated_at": "2026-11-05T06:56:46Z"
 }
